@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70966908027",
+    "firebase_url": "https://fluffy-chats.firebaseio.com",
+    "project_id": "fluffy-chats",
+    "storage_bucket": "fluffy-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70966908027:android:5a418c32f09973db8cbede",
+        "android_client_info": {
+          "package_name": "com.unicorp.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70966908027-lfvat3p014s2v5l3fsr3qo505st94j46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MbwUM_b4bMhm4Vb9Dj2WnzjUGNk8rUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70966908027-lfvat3p014s2v5l3fsr3qo505st94j46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
